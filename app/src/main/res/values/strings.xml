@@ -4,6 +4,7 @@
     <string-array name="number">
         <item>  1</item>
         <item>  55B</item>
+        <item>  xxx</item>
     </string-array>
 
 </resources>
