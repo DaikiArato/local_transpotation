@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">project_ver1</string>
 
+    //系統番号の選択（ドロップダウン）
     <string-array name="number">
         <item>  1</item>
         <item>  55B</item>
